@@ -1,0 +1,18 @@
+{
+  "name": "npm-outdated-json-example",
+  "version": "0.0.0",
+  "description": "parsing outdated output",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/npm-outdated-json-example.git"
+  },
+  "homepage": "https://github.com/robertkowalski/npm-outdated-json-example",
+  "keywords": [],
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/npm-outdated-json-example/issues"
+  }
+}
