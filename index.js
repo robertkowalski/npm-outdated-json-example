@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-var semver = require("semver")
-
 process.stdin.resume()
 process.stdin.setEncoding('utf8')
 
